@@ -1,4 +1,4 @@
-%This Program will simmulate Absorption of Water into a plane from top to
+%This Program will simulate Absorption of Water into a plane from top to
 %bottom using Monte-Carlo Simmulation Method 
 %The Algorithm Of Depth First Search is applied (DFS.m)
 %Written By Amin Abrishami Moghadam Spring 2019
