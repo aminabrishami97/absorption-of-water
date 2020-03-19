@@ -6,3 +6,4 @@ including Left , Right , Up and Down (Not Diagonal) . That's Why DFS algorithm i
 there's a Plane of grid , and Many of its files are blocked . You're free to inject water from the top of the plane . DFS will start from the 
 first file or water Particle and recursively searches for the empty files to fill them also not to pass the blocked files 
 within the concept mentioned above . Once this algorithm encounters with a blocked file it will be halted and the goes to the next water particle
+# Screenshot
