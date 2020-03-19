@@ -1,4 +1,4 @@
-# absorption-of-water
+# Absorption Of Water
 This Program will simmulate Absorption of Water into a plane from the top to the bottom .
 The Algorithm of Depth First Search is also Applied in this program , the concept of doing this simulation is Easy .
 First of all , If we consider a water particle as a file of a grid , this Particle cannot move if it's surrounded by the blocks in Four directions
