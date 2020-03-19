@@ -7,3 +7,4 @@ there's a Plane of grid , and Many of its files are blocked . You're free to inj
 first file or water Particle and recursively searches for the empty files to fill them also not to pass the blocked files 
 within the concept mentioned above . Once this algorithm encounters with a blocked file it will be halted and the goes to the next water particle
 # Screenshot
+![Absorption Of Water1](https://user-images.githubusercontent.com/62389723/77092843-6c327d00-6a1f-11ea-834d-d49e9cff2f4a.png)
